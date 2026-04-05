@@ -74,10 +74,6 @@ Regular fat products have higher sales contribution
 
 Sales peaked for outlets established around 2018
 
-📂 Project Deliverables
-
-Interactive Power BI Dashboard (.pbix)
-
 Cleaned and modeled dataset
 
 Insight-driven visualizations
